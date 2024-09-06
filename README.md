@@ -1,6 +1,6 @@
 # 💼 Investment Assistant using GenAI
 
-**Unleash the power of AI in your investment strategies!** Our advanced investment advisor application leverages cutting-edge Generative AI to elevate stock analysis and provide you with insightful investment recommendations. Built with Streamlit, this platform integrates real-time financial data from Yahoo Finance (yfinance) and the latest news from DuckDuckGo (DDGS) to craft comprehensive investment reports just for you.
+**Unleash the power of Gen-AI in your investment strategies!** Our advanced investment advisor application leverages cutting-edge Generative AI to elevate stock analysis and provide you with insightful investment recommendations. Built with Streamlit, this platform integrates real-time financial data from Yahoo Finance (yfinance) and the latest news from DuckDuckGo (DDGS) to craft comprehensive investment reports just for you.
 
 ## 🚀 Key Features
 
