@@ -112,7 +112,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any inquiries or feedback, please contact:
 
 **ANURAG**  
-Email: [your- anuragsahu4328@gmail.com](mailto:anuragsahu4328@gmail.com)  
+Email: [anuragsahu4328@gmail.com](mailto:anuragsahu4328@gmail.com)  
 ---
 
 **Elevate your investment strategies with AI – happy investing!**
